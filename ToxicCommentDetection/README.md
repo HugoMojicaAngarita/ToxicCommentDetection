@@ -129,7 +129,7 @@ graph LR
 ## Link
 
 [Jigsaw Unintended Bias in Toxicity Classification – Kaggle](https://www.kaggle.com/competitions/jigsaw-unintended-bias-in-toxicity-classification)
-
+https://www.kaggle.com/code/hugomojicaangarita/datatoxicity
 
 Universidad Distrital Francisco José de Caldas  
 Systems Analysis & Design - 2025
